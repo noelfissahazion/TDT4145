@@ -1,2 +1,2 @@
-# DatabaseProsjekt
-Database prosjekt i faget TDT4145!
+# TDT4145
+Database project
