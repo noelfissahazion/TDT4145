@@ -1,2 +1,1 @@
-# TDT4145
-Database project
+# Database Project in the course TDT4145
